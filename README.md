@@ -114,3 +114,4 @@ For more details on the database schema, please refer to the `schema.sql` file.
 -   Juan Maestre
 -   Edinson Noriega (Frontend Lead)
 
+:D
