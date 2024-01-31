@@ -1,0 +1,488 @@
+[
+    {
+        "id_area": 1,
+        "id_pro": 1,
+        "nom_area": "Ciencias de la Computación Básica",
+        "desc_area": "Conceptos y principios fundamentales en ciencias de la computación"
+    },
+    {
+        "id_area": 2,
+        "id_pro": 1,
+        "nom_area": "Ciencias de la Computación Profesional",
+        "desc_area": "Estudio avanzado del desarrollo de software y arquitectura de sistemas"
+    },
+    {
+        "id_area": 3,
+        "id_pro": 1,
+        "nom_area": "Énfasis en Ciencias de la Computación",
+        "desc_area": "Especialización en inteligencia artificial y aprendizaje automático"
+    },
+    {
+        "id_area": 4,
+        "id_pro": 2,
+        "nom_area": "Ingeniería Eléctrica Básica",
+        "desc_area": "Fundamentos de circuitos eléctricos y sistemas"
+    },
+    {
+        "id_area": 5,
+        "id_pro": 2,
+        "nom_area": "Ingeniería Eléctrica Profesional",
+        "desc_area": "Estudio avanzado de generación de energía y tecnologías de energía renovable"
+    },
+    {
+        "id_area": 6,
+        "id_pro": 2,
+        "nom_area": "Énfasis en Ingeniería Eléctrica",
+        "desc_area": "Especialización en diseño y optimización de redes eléctricas"
+    },
+    {
+        "id_area": 7,
+        "id_pro": 3,
+        "nom_area": "Administración de Empresas Básica",
+        "desc_area": "Introducción a los principios de gestión y comportamiento organizacional"
+    },
+    {
+        "id_area": 8,
+        "id_pro": 3,
+        "nom_area": "Administración de Empresas Profesional",
+        "desc_area": "Planificación estratégica y gestión financiera en los negocios"
+    },
+    {
+        "id_area": 9,
+        "id_pro": 3,
+        "nom_area": "Énfasis en Administración de Empresas",
+        "desc_area": "Enfoque en emprendimiento e innovación en los negocios"
+    },
+    {
+        "id_area": 10,
+        "id_pro": 4,
+        "nom_area": "Ingeniería Mecánica Básica",
+        "desc_area": "Estudio de la mecánica y la ciencia de los materiales"
+    },
+    {
+        "id_area": 11,
+        "id_pro": 4,
+        "nom_area": "Ingeniería Mecánica Profesional",
+        "desc_area": "Termodinámica avanzada y mecánica de fluidos"
+    },
+    {
+        "id_area": 12,
+        "id_pro": 4,
+        "nom_area": "Énfasis en Ingeniería Mecánica",
+        "desc_area": "Especialización en ingeniería automotriz y diseño"
+    },
+    {
+        "id_area": 13,
+        "id_pro": 5,
+        "nom_area": "Psicología Básica",
+        "desc_area": "Introducción a las teorías psicológicas y métodos de investigación"
+    },
+    {
+        "id_area": 14,
+        "id_pro": 5,
+        "nom_area": "Psicología Profesional",
+        "desc_area": "Estudio avanzado de psicología clínica y técnicas de consejería"
+    },
+    {
+        "id_area": 15,
+        "id_pro": 5,
+        "nom_area": "Énfasis en Psicología",
+        "desc_area": "Especialización en psicología del desarrollo y análisis del comportamiento"
+    },
+    {
+        "id_area": 16,
+        "id_pro": 6,
+        "nom_area": "Ciencias Ambientales Básicas",
+        "desc_area": "Fundamentos de ecología y conservación del medio ambiente"
+    },
+    {
+        "id_area": 17,
+        "id_pro": 6,
+        "nom_area": "Ciencias Ambientales Profesionales",
+        "desc_area": "Estudio avanzado de políticas ambientales y desarrollo sostenible"
+    },
+    {
+        "id_area": 18,
+        "id_pro": 6,
+        "nom_area": "Énfasis en Ciencias Ambientales",
+        "desc_area": "Enfoque en evaluación del impacto ambiental y gestión de recursos naturales"
+    },
+    {
+        "id_area": 19,
+        "id_pro": 7,
+        "nom_area": "Marketing Básico",
+        "desc_area": "Introducción al comportamiento del consumidor y principios de marketing"
+    },
+    {
+        "id_area": 20,
+        "id_pro": 7,
+        "nom_area": "Marketing Profesional",
+        "desc_area": "Estudio avanzado de estrategias de marketing digital y análisis de mercado"
+    },
+    {
+        "id_area": 21,
+        "id_pro": 7,
+        "nom_area": "Énfasis en Marketing",
+        "desc_area": "Especialización en gestión de marcas y campañas publicitarias"
+    },
+    {
+        "id_area": 22,
+        "id_pro": 8,
+        "nom_area": "Enfermería Básica",
+        "desc_area": "Fundamentos de cuidado de pacientes y prácticas de atención médica"
+    },
+    {
+        "id_area": 23,
+        "id_pro": 8,
+        "nom_area": "Enfermería Profesional",
+        "desc_area": "Estudio avanzado de gestión de enfermería y administración de atención médica"
+    },
+    {
+        "id_area": 24,
+        "id_pro": 8,
+        "nom_area": "Énfasis en Enfermería",
+        "desc_area": "Enfoque en prácticas de enfermería especializadas y defensa de pacientes"
+    },
+    {
+        "id_area": 25,
+        "id_pro": 9,
+        "nom_area": "Ingeniería Civil Básica",
+        "desc_area": "Estudio de la ingeniería estructural y materiales de construcción"
+    },
+    {
+        "id_area": 26,
+        "id_pro": 9,
+        "nom_area": "Ingeniería Civil Profesional",
+        "desc_area": "Estudio avanzado de ingeniería de transporte e infraestructura urbana"
+    },
+    {
+        "id_area": 27,
+        "id_pro": 9,
+        "nom_area": "Énfasis en Ingeniería Civil",
+        "desc_area": "Especialización en ingeniería ambiental y diseño sostenible"
+    },
+    {
+        "id_area": 28,
+        "id_pro": 10,
+        "nom_area": "Biología Básica",
+        "desc_area": "Introducción a la biología celular y la genética"
+    },
+    {
+        "id_area": 29,
+        "id_pro": 10,
+        "nom_area": "Biología Profesional",
+        "desc_area": "Estudio avanzado de la ecología y biología evolutiva"
+    },
+    {
+        "id_area": 30,
+        "id_pro": 10,
+        "nom_area": "Énfasis en Biología",
+        "desc_area": "Enfoque en biología marina e investigación de conservación"
+    },
+    {
+        "id_area": 31,
+        "id_pro": 11,
+        "nom_area": "Finanzas Básicas",
+        "desc_area": "Introducción a los mercados financieros y principios de inversión"
+    },
+    {
+        "id_area": 32,
+        "id_pro": 11,
+        "nom_area": "Finanzas Profesionales",
+        "desc_area": "Estudio avanzado de finanzas corporativas y gestión de riesgos"
+    },
+    {
+        "id_area": 33,
+        "id_pro": 11,
+        "nom_area": "Énfasis en Finanzas",
+        "desc_area": "Especialización en análisis financiero y gestión de carteras"
+    },
+    {
+        "id_area": 34,
+        "id_pro": 12,
+        "nom_area": "Literatura Inglesa Básica",
+        "desc_area": "Estudio de géneros literarios y análisis lingüístico"
+    },
+    {
+        "id_area": 35,
+        "id_pro": 12,
+        "nom_area": "Literatura Inglesa Profesional",
+        "desc_area": "Estudio avanzado de crítica literaria y estudios culturales"
+    },
+    {
+        "id_area": 36,
+        "id_pro": 12,
+        "nom_area": "Énfasis en Literatura Inglesa",
+        "desc_area": "Enfoque en escritura creativa y literatura moderna"
+    },
+    {
+        "id_area": 37,
+        "id_pro": 13,
+        "nom_area": "Historia Básica",
+        "desc_area": "Introducción a eventos históricos y civilizaciones globales"
+    },
+    {
+        "id_area": 38,
+        "id_pro": 13,
+        "nom_area": "Historia Profesional",
+        "desc_area": "Estudio avanzado de métodos de investigación histórica y estudios archivísticos"
+    },
+    {
+        "id_area": 39,
+        "id_pro": 13,
+        "nom_area": "Énfasis en Historia",
+        "desc_area": "Especialización en patrimonio cultural y estudios de museos"
+    },
+    {
+        "id_area": 40,
+        "id_pro": 14,
+        "nom_area": "Ingeniería Química Básica",
+        "desc_area": "Fundamentos de procesos químicos y química industrial"
+    },
+    {
+        "id_area": 41,
+        "id_pro": 14,
+        "nom_area": "Ingeniería Química Profesional",
+        "desc_area": "Estudio avanzado de diseño de reactores químicos y optimización de procesos"
+    },
+    {
+        "id_area": 42,
+        "id_pro": 14,
+        "nom_area": "Énfasis en Ingeniería Química",
+        "desc_area": "Especialización en ingeniería farmacéutica y desarrollo de medicamentos"
+    },
+    {
+        "id_area": 43,
+        "id_pro": 15,
+        "nom_area": "Sociología Básica",
+        "desc_area": "Introducción a las teorías sociológicas y estructuras sociales"
+    },
+    {
+        "id_area": 44,
+        "id_pro": 15,
+        "nom_area": "Sociología Profesional",
+        "desc_area": "Estudio avanzado del desarrollo comunitario y políticas de bienestar social"
+    },
+    {
+        "id_area": 45,
+        "id_pro": 15,
+        "nom_area": "Énfasis en Sociología",
+        "desc_area": "Enfoque en criminología y análisis de comportamiento desviado"
+    },
+    {
+        "id_area": 46,
+        "id_pro": 16,
+        "nom_area": "Historia del Arte Básica",
+        "desc_area": "Estudio de movimientos artísticos y preservación del patrimonio cultural"
+    },
+    {
+        "id_area": 47,
+        "id_pro": 16,
+        "nom_area": "Historia del Arte Profesional",
+        "desc_area": "Estudio avanzado de curaduría de museos y conservación del arte"
+    },
+    {
+        "id_area": 48,
+        "id_pro": 16,
+        "nom_area": "Énfasis en Historia del Arte",
+        "desc_area": "Especialización en arte contemporáneo y estudios de cultura visual"
+    },
+    {
+        "id_area": 49,
+        "id_pro": 17,
+        "nom_area": "Física Básica",
+        "desc_area": "Conceptos y principios fundamentales en física"
+    },
+    {
+        "id_area": 50,
+        "id_pro": 17,
+        "nom_area": "Física Aplicada",
+        "desc_area": "Estudio avanzado de aplicaciones prácticas en física"
+    },
+    {
+        "id_area": 51,
+        "id_pro": 17,
+        "nom_area": "Énfasis en Física",
+        "desc_area": "Especialización en áreas específicas de la física"
+    },
+    {
+        "id_area": 52,
+        "id_pro": 18,
+        "nom_area": "Teoría Musical",
+        "desc_area": "Conceptos y principios fundamentales en teoría musical"
+    },
+    {
+        "id_area": 53,
+        "id_pro": 18,
+        "nom_area": "Técnicas de Interpretación",
+        "desc_area": "Estudio avanzado de técnicas de interpretación musical"
+    },
+    {
+        "id_area": 54,
+        "id_pro": 18,
+        "nom_area": "Composición Musical",
+        "desc_area": "Especialización en composición musical"
+    },
+    {
+        "id_area": 55,
+        "id_pro": 19,
+        "nom_area": "Astrofísica",
+        "desc_area": "Conceptos y principios fundamentales en astrofísica"
+    },
+    {
+        "id_area": 56,
+        "id_pro": 19,
+        "nom_area": "Exploración Espacial",
+        "desc_area": "Estudio avanzado de la exploración espacial y tecnologías relacionadas"
+    },
+    {
+        "id_area": 57,
+        "id_pro": 19,
+        "nom_area": "Énfasis en Astronomía",
+        "desc_area": "Especialización en áreas específicas de la astronomía"
+    },
+    {
+        "id_area": 58,
+        "id_pro": 20,
+        "nom_area": "Diseño Visual",
+        "desc_area": "Conceptos y principios fundamentales en diseño visual"
+    },
+    {
+        "id_area": 59,
+        "id_pro": 20,
+        "nom_area": "Diseño Creativo",
+        "desc_area": "Estudio avanzado de técnicas creativas en diseño"
+    },
+    {
+        "id_area": 60,
+        "id_pro": 20,
+        "nom_area": "Énfasis en Diseño Gráfico",
+        "desc_area": "Especialización en áreas específicas del diseño gráfico"
+    },
+    {
+        "id_area": 61,
+        "id_pro": 21,
+        "nom_area": "Análisis de Datos",
+        "desc_area": "Conceptos y principios fundamentales en análisis de datos"
+    },
+    {
+        "id_area": 62,
+        "id_pro": 21,
+        "nom_area": "Aprendizaje Automático",
+        "desc_area": "Estudio avanzado de técnicas de aprendizaje automático"
+    },
+    {
+        "id_area": 63,
+        "id_pro": 21,
+        "nom_area": "Énfasis en Ciencia de Datos",
+        "desc_area": "Especialización en áreas específicas de la ciencia de datos"
+    },
+    {
+        "id_area": 64,
+        "id_pro": 22,
+        "nom_area": "Política Global",
+        "desc_area": "Conceptos y principios fundamentales en política global"
+    },
+    {
+        "id_area": 65,
+        "id_pro": 22,
+        "nom_area": "Diplomacia",
+        "desc_area": "Estudio avanzado de estrategias diplomáticas"
+    },
+    {
+        "id_area": 66,
+        "id_pro": 22,
+        "nom_area": "Énfasis en Relaciones Internacionales",
+        "desc_area": "Especialización en áreas específicas de relaciones internacionales"
+    },
+    {
+        "id_area": 67,
+        "id_pro": 23,
+        "nom_area": "Seguridad Informática",
+        "desc_area": "Conceptos y principios fundamentales en seguridad informática"
+    },
+    {
+        "id_area": 68,
+        "id_pro": 23,
+        "nom_area": "Protección de Redes",
+        "desc_area": "Estudio avanzado de técnicas de protección de redes"
+    },
+    {
+        "id_area": 69,
+        "id_pro": 23,
+        "nom_area": "Énfasis en Ciberseguridad",
+        "desc_area": "Especialización en áreas específicas de ciberseguridad"
+    },
+    {
+        "id_area": 70,
+        "id_pro": 24,
+        "nom_area": "Dirección Cinematográfica",
+        "desc_area": "Conceptos y principios fundamentales en dirección cinematográfica"
+    },
+    {
+        "id_area": 71,
+        "id_pro": 24,
+        "nom_area": "Producción Audiovisual",
+        "desc_area": "Estudio avanzado de técnicas de producción audiovisual"
+    },
+    {
+        "id_area": 72,
+        "id_pro": 24,
+        "nom_area": "Énfasis en Producción Cinematográfica",
+        "desc_area": "Especialización en áreas específicas de producción cinematográfica"
+    },
+    {
+        "id_area": 73,
+        "id_pro": 25,
+        "nom_area": "Diseño Arquitectónico",
+        "desc_area": "Conceptos y principios fundamentales en diseño arquitectónico"
+    },
+    {
+        "id_area": 74,
+        "id_pro": 25,
+        "nom_area": "Construcción Sostenible",
+        "desc_area": "Estudio avanzado de técnicas de construcción sostenible"
+    },
+    {
+        "id_area": 75,
+        "id_pro": 25,
+        "nom_area": "Énfasis en Arquitectura",
+        "desc_area": "Especialización en áreas específicas de arquitectura"
+    },
+    {
+        "id_area": 76,
+        "id_pro": 26,
+        "nom_area": "Sistemas Políticos",
+        "desc_area": "Conceptos y principios fundamentales en sistemas políticos"
+    },
+    {
+        "id_area": 77,
+        "id_pro": 26,
+        "nom_area": "Gobernanza",
+        "desc_area": "Estudio avanzado de procesos de gobernanza"
+    },
+    {
+        "id_area": 78,
+        "id_pro": 26,
+        "nom_area": "Énfasis en Ciencias Políticas",
+        "desc_area": "Especialización en áreas específicas de ciencias políticas"
+    },
+    {
+        "id_area": 79,
+        "id_pro": 27,
+        "nom_area": "Investigación Histórica",
+        "desc_area": "Conceptos y principios fundamentales en investigación histórica"
+    },
+    {
+        "id_area": 80,
+        "id_pro": 27,
+        "nom_area": "Análisis de Sociedades Humanas",
+        "desc_area": "Estudio avanzado de técnicas de análisis de sociedades humanas"
+    },
+    {
+        "id_area": 81,
+        "id_pro": 27,
+        "nom_area": "Énfasis en Historia",
+        "desc_area": "Especialización en áreas específicas de historia"
+    }
+]
